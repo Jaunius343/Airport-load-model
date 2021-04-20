@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1618671302 source:c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\main.c
+1618905059 source:c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"pq_struct.h"
@@ -10,18 +10,18 @@
 
 1614086141 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\pq_struct.h
 
-1614086318 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\priority_queue.h
+1618673361 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\priority_queue.h
 	"pq_struct.h"
 
-1618664620 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\priority_queue.c
+1618755226 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\priority_queue.c
 	<stdio.h>
 	<stdlib.h>
 	"pq_struct.h"
 	"priority_queue.h"
 
-1618668165 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\big_int.h
+1618897443 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\big_int.h
 
-1618668169 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\big_int.c
+1618897415 c:\users\jauta\onedrive\stalinis kompiuteris\programavimas\vu\ads uzd 3\big_int.c
 	<stdlib.h>
 	<stdio.h>
 	<string.h>

@@ -25,5 +25,6 @@ big_int* add_big_int(big_int* a, big_int* b);
 big_int* sub_big_int(big_int* a, big_int* b);
 big_int* mul_big_int(big_int* a, big_int* b);
 big_int* div_big_int(big_int* a, big_int* b);
+void print_big_int_file(big_int* num, FILE *stream);
 
 #endif

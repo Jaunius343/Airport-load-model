@@ -1,0 +1,382 @@
+landing: 10
+take off: 19
+
+planes left: 29
+land count: 10
+takeoff count: 19
+rng: 59
+Total time now: 0
+Time to land: 100
+New time: 100
++
+fuel time - time passed = 900
+
+
+planes left: 28
+land count: 9
+takeoff count: 19
+rng: 22
+
+planes left: 28
+land count: 9
+takeoff count: 19
+rng: 85
+Total time now: 100
+Time to land: 100
+New time: 200
++
+fuel time - time passed = 800
+
+
+planes left: 27
+land count: 8
+takeoff count: 19
+rng: 32
+
+planes left: 27
+land count: 8
+takeoff count: 19
+rng: 3
+
+planes left: 27
+land count: 8
+takeoff count: 19
+rng: 40
+
+planes left: 27
+land count: 8
+takeoff count: 19
+rng: 27
+
+planes left: 27
+land count: 8
+takeoff count: 19
+rng: 78
+Total time now: 200
+Time to land: 100
+New time: 300
++
+fuel time - time passed = 700
+
+
+planes left: 26
+land count: 7
+takeoff count: 19
+rng: 93
+Total time now: 300
+Time to land: 100
+New time: 400
++
+fuel time - time passed = 600
+
+
+planes left: 25
+land count: 6
+takeoff count: 19
+rng: 33
+
+planes left: 25
+land count: 6
+takeoff count: 19
+rng: 59
+Total time now: 400
+Time to land: 100
+New time: 500
++
+fuel time - time passed = 500
+
+
+planes left: 24
+land count: 5
+takeoff count: 19
+rng: 41
+
+planes left: 24
+land count: 5
+takeoff count: 19
+rng: 10
+
+planes left: 24
+land count: 5
+takeoff count: 19
+rng: 44
+
+planes left: 24
+land count: 5
+takeoff count: 19
+rng: 10
+
+planes left: 24
+land count: 5
+takeoff count: 19
+rng: 85
+Total time now: 500
+Time to land: 100
+New time: 600
++
+fuel time - time passed = 400
+
+
+planes left: 23
+land count: 4
+takeoff count: 19
+rng: 81
+Total time now: 600
+Time to land: 100
+New time: 700
++
+fuel time - time passed = 300
+
+
+planes left: 22
+land count: 3
+takeoff count: 19
+rng: 92
+Total time now: 700
+Time to land: 100
+New time: 800
++
+fuel time - time passed = 200
+
+
+planes left: 21
+land count: 2
+takeoff count: 19
+rng: 3
+
+planes left: 21
+land count: 2
+takeoff count: 19
+rng: 3
+
+planes left: 21
+land count: 2
+takeoff count: 19
+rng: 98
+Total time now: 800
+Time to land: 100
+New time: 900
++
+fuel time - time passed = 100
+
+
+planes left: 20
+land count: 1
+takeoff count: 19
+rng: 54
+Total time now: 900
+Time to land: 100
+New time: 1000
++
+fuel time - time passed = 0
+
+
+planes left: 19
+land count: 0
+takeoff count: 19
+rng: 13
+
+planes left: 19
+land count: 0
+takeoff count: 19
+rng: 58
+
+planes left: 18
+land count: 0
+takeoff count: 18
+rng: 72
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 47
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 34
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 7
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 5
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 8
+
+planes left: 17
+land count: 0
+takeoff count: 17
+rng: 74
+
+planes left: 16
+land count: 0
+takeoff count: 16
+rng: 96
+
+planes left: 15
+land count: 0
+takeoff count: 15
+rng: 97
+
+planes left: 14
+land count: 0
+takeoff count: 14
+rng: 62
+
+planes left: 13
+land count: 0
+takeoff count: 13
+rng: 92
+
+planes left: 12
+land count: 0
+takeoff count: 12
+rng: 38
+
+planes left: 12
+land count: 0
+takeoff count: 12
+rng: 21
+
+planes left: 12
+land count: 0
+takeoff count: 12
+rng: 97
+
+planes left: 11
+land count: 0
+takeoff count: 11
+rng: 81
+
+planes left: 10
+land count: 0
+takeoff count: 10
+rng: 43
+
+planes left: 10
+land count: 0
+takeoff count: 10
+rng: 27
+
+planes left: 10
+land count: 0
+takeoff count: 10
+rng: 58
+
+planes left: 9
+land count: 0
+takeoff count: 9
+rng: 83
+
+planes left: 8
+land count: 0
+takeoff count: 8
+rng: 37
+
+planes left: 8
+land count: 0
+takeoff count: 8
+rng: 38
+
+planes left: 8
+land count: 0
+takeoff count: 8
+rng: 9
+
+planes left: 8
+land count: 0
+takeoff count: 8
+rng: 85
+
+planes left: 7
+land count: 0
+takeoff count: 7
+rng: 20
+
+planes left: 7
+land count: 0
+takeoff count: 7
+rng: 4
+
+planes left: 7
+land count: 0
+takeoff count: 7
+rng: 86
+
+planes left: 6
+land count: 0
+takeoff count: 6
+rng: 26
+
+planes left: 6
+land count: 0
+takeoff count: 6
+rng: 8
+
+planes left: 6
+land count: 0
+takeoff count: 6
+rng: 21
+
+planes left: 6
+land count: 0
+takeoff count: 6
+rng: 2
+
+planes left: 6
+land count: 0
+takeoff count: 6
+rng: 72
+
+planes left: 5
+land count: 0
+takeoff count: 5
+rng: 37
+
+planes left: 5
+land count: 0
+takeoff count: 5
+rng: 45
+
+planes left: 5
+land count: 0
+takeoff count: 5
+rng: 77
+
+planes left: 4
+land count: 0
+takeoff count: 4
+rng: 51
+
+planes left: 3
+land count: 0
+takeoff count: 3
+rng: 94
+
+planes left: 2
+land count: 0
+takeoff count: 2
+rng: 33
+
+planes left: 2
+land count: 0
+takeoff count: 2
+rng: 30
+
+planes left: 2
+land count: 0
+takeoff count: 2
+rng: 82
+
+planes left: 1
+land count: 0
+takeoff count: 1
+rng: 62

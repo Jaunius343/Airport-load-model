@@ -156,6 +156,18 @@ void print_big_int(big_int* num)
     printf("\n");
 }
 
+void print_big_int_file(big_int* num, FILE *stream)
+{
+    //Dont print sign if num = 0 or sign is '+'
+    if(num->sign == '-' && num->data[0] != 0)
+        fprintf(stream, "%c", num->sign);
+
+    for(int i = 0; i < num->len; ++i)
+        fprintf(stream, "%c", (num->data[i] + '0'));
+
+    fprintf(stream, "\n");
+}
+
 //Add two big ints
 big_int* add_big_int(big_int* a, big_int* b)
 {
